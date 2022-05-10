@@ -70,6 +70,7 @@ export default function SearchFromApi() {
                 </View>
                 }
             />
+            <Text style={{color: 'white'}}>Ticker name examples: AAPL, GOOG, TLRY, TSLA</Text>
             <View style={{flex: 5}}>
                 <TextInput
                 style={{width: 250, borderColor: 'grey', borderWidth: 1, backgroundColor: 'white', marginBottom: 10, marginTop: 10, height: 45, color: 'black'}}

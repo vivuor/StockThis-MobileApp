@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "My project for a course about React Native",
+    "githubUrl": "https://github.com/vivuor/StockThis-MobileApp"
   }
 }
